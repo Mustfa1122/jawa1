@@ -1,0 +1,1 @@
+Document.write("my name is mustafa");
